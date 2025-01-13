@@ -4,7 +4,7 @@ import org.scalatest.tools.TestElement
 
 class LeetCode88Spec extends AnyFlatSpec {
 
-  behavior of "LeetCode88.merge"
+  behavior of "MergeSortedArrays_88.merge"
 
   it should "merge two arrays (test case 1)" in {
     val nums1 = Array(1, 2, 3, 0, 0, 0)
