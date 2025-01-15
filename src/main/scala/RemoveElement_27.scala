@@ -1,4 +1,4 @@
-object RemoveElement_28 {
+object RemoveElement_27 {
   def removeElement(nums: Array[Int], `val`: Int): Int = {
     var k = 0
     var n = nums.length
